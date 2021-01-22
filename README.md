@@ -6,8 +6,8 @@ The dataset downloaded from https://www.kaggle.com/patrickb1912/ipl-complete-dat
  2. "IPL Ball-by-Ball 2008-2020.csv" .
 Both files have been used in the project for Jovian.ml - Data Analysis with Python: Zero to Pandas.
 Project is divided into following parts :
- [A] Data Preperation and Cleaning
- [B] Exploratory Analysis and Visualization [ Matches played every season, Teams' performance, Venue Stats, etc. ]
- [C] Questions
- [D] Inferences and Conclusion
- [E] Future Work and References
+ 1. Data Preperation and Cleaning
+ 2. Exploratory Analysis and Visualization [ Matches played every season, Teams' performance, Venue Stats, etc. ]
+ 3. Questions
+ 4. Inferences and Conclusion
+ 5. Future Work and References
